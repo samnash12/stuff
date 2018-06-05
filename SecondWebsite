@@ -30,12 +30,12 @@ table, th, td {
   </tr>
   <tr>
     <td>You feel closer with your friend.</td>
-    <td>you stray away from the people you didn't choose, even if they were  just random people. </td>
+    <td>You stray away from the people you didn't choose, even if they were  just random people. </td>
 
   </tr>
   <tr>
-    <td>...</td>
-    <td>...</td>
+    <td>You feel better about yourself. </td>
+    <td>You feel guilty for the people you didn't pick.</td>
   </tr>
 </table>
 
@@ -49,19 +49,21 @@ table, th, td {
   </tr>
   <tr>
     <td>Morally correct. </td>
-    <td>Freind could be unhappy or possibly mad with your decision. </td>
+    <td>Friend could be unhappy or possibly mad with your decision. </td>
 
   </tr>
   <tr>
-    <td>...</td>
-    <td>...</td>
+    <td>You feel good for the people you did pick. </td>
+    <td>You feel guilty that you didn't give in to your friend. </td>
 
   </tr>
   <tr>
-    <td>...</td>
-    <td>...</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
+
+
 
     </body>
 </html>
