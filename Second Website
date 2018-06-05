@@ -5,30 +5,63 @@
 table, th, td {
     border: 1px solid black;
 }
+      body {
+            background-color: rgb(50, 169, 237);
+               }
 </style>
 </head>
 <body>
     
         <h1>Ethical Dilemmas: Preferential Treatment</h1>
 
-        <table>
-            <thead>
-                <tr>
-                    <h2>Deciding to give in</h2>
-                    
-                    <h4><th>Pros: </th></h4>
-                    <h4><th>Cons: </th></h4>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td><ol>Keeps a good friendship.</ol>
-                    <ol></ol>
-                    </td>
-                </tr>
+<table style="width:100%">
 
-            </tbody>
-        </table>
+<h2>Giving In: </h2>
+
+  <tr>
+    <th>Pros:</th>
+    <th>Cons:</th> 
+
+  </tr>
+  <tr>
+    <td>Keeps a great relationship with the friend. </td>
+    <td>Not morally correct. </td>
+
+  </tr>
+  <tr>
+    <td>You feel closer with your friend.</td>
+    <td>you stray away from the people you didn't choose, even if they were  just random people. </td>
+
+  </tr>
+  <tr>
+    <td>...</td>
+    <td>...</td>
+  </tr>
+</table>
+
+<h2>Keeping your decision: </h2>
+<table style="width:100%">
+
+  <tr>
+    <th>Pros:</th>
+    <th>Cons:</th> 
+
+  </tr>
+  <tr>
+    <td>Morally correct. </td>
+    <td>Freind could be unhappy or possibly mad with your decision. </td>
+
+  </tr>
+  <tr>
+    <td>...</td>
+    <td>...</td>
+
+  </tr>
+  <tr>
+    <td>...</td>
+    <td>...</td>
+  </tr>
+</table>
 
     </body>
 </html>
